@@ -2,7 +2,7 @@
 
 class CHtml
 {
-	const SALZINDERSUPPE = '3fe83b72cd1461abdf70c48c4ebeb1d2';
+	const SALZINDERSUPPE = 'mySecret';
 
 
 
