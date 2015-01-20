@@ -1,7 +1,9 @@
-# CPoll.php
+CPoll.php
+=========
+
 Minimalistic poll script written in PHP that uses SQLite to store the votes.
 
-==test==
+##Requirements
 
-* 1
-* 2
+* PHP 5 with SQLite extension
+* Apache
